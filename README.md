@@ -32,6 +32,10 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
+## Thanks
+
+This code is based on the Python version which was blogged about [here](https://medium.com/@TalBeerySec/a-short-note-on-aws-key-id-f88cc4317489). This Go version uses concurrency to process large volumes of these faster.
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
