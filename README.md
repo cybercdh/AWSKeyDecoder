@@ -4,7 +4,7 @@ AWSKeyDecoder converts AWS Key Ids to AWS Account Ids en masse.
 
 ## Installation
 
-Assuming you have Go installed:
+Assuming you have [Go](https://go.dev/doc/install) installed:
 
 ```bash
 go install github.com/cybercdh/AWSKeyDecoder@latest
